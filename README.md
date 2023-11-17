@@ -1,1 +1,3 @@
 "# netflix-clone-website" 
+
+The Netflix Clone project is a web-based application that replicates the popular streaming platform. Developed using HTML and CSS, this clone provides a similar user interface and design to Netflix. By utilizing the TMDB API Key, the application retrieves and displays movie and TV show data from the TMDB database, allowing users to browse and search for their favorite content. With its sleek design and responsive layout, this clone offers a visually appealing and immersive streaming experience. Explore a wide range of movies and TV shows in this Netflix-inspired web application.
